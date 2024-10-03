@@ -1,4 +1,4 @@
-Hi, I’m Nicholas Cleasby (@CleasbyCode). 
+Hi, I’m Nicholas Cleasby (@CleasbyCode).  
 Slowly learning C++ and currently playing around with file formats.
 
 
