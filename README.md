@@ -1,6 +1,5 @@
-Hi, I’m Nicholas Cleasby (@CleasbyCode).  I'm a beginner programmer.  
-
-Learning C++ and playing around with file formats.
+Hi, I’m Nicholas Cleasby (@CleasbyCode). 
+Slowly learning C++ and currently playing around with file formats.
 
 
 <!---
