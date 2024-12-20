@@ -1,5 +1,5 @@
 Hi, I’m Nicholas Cleasby (@CleasbyCode).  
-Slowly learning C++ and currently playing around with file formats.
+Slowly learning C++ and currently playing around with random projects.
 
 
 <!---
